@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\bin\Debug\ZekaOyunu.exe.config
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\obj\Debug\ZekaOyunu.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\obj\Debug\ZekaOyunu.Form1.resources
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\obj\Debug\ZekaOyunu.Properties.Resources.resources
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\obj\Debug\ZekaOyunu.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\bin\Debug\ZekaOyunu.exe
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\bin\Debug\ZekaOyunu.pdb
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\obj\Debug\ZekaOyunu.exe
+C:\Users\hp\Desktop\ZekaOyunu\ZekaOyunu\obj\Debug\ZekaOyunu.pdb
